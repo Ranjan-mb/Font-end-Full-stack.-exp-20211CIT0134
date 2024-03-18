@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Restaurant</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Simple Restaurant</h1>
+    <nav>
+      <ul>
+        <li><a href="#menu">Menu</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <section id="hero">
+    <h2>Welcome to Simple Restaurant</h2>
+    <p>Enjoy delicious food in a cozy atmosphere.</p>
+  </section>
+  
+  <section id="menu">
+    <h2>Our Menu</h2>
+    <div class="menu-item">
+      <h3>Appetizers</h3>
+      <ul>
+        <li>Bruschetta</li>
+        <li>Mozzarella Sticks</li>
+        <li>Chicken Wings</li>
+      </ul>
+    </div>
+    <div class="menu-item">
+      <h3>Main Courses</h3>
+      <ul>
+        <li>Spaghetti Carbonara</li>
+        <li>Grilled Salmon</li>
+        <li>Steak</li>
+      </ul>
+    </div>
+    <div class="menu-item">
+      <h3>Desserts</h3>
+      <ul>
+        <li>Tiramisu</li>
+        <li>Chocolate Cake</li>
+        <li>Cheesecake</li>
+      </ul>
+    </div>
+  </section>
+  
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We are passionate about serving delicious food made from the finest ingredients.</p>
+  </section>
+  
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Reach out to us at:</p>
+    <address>
+      123 Restaurant St.<br>
+      Banglore, State<br>
+      Phone: 78668439053<br>
+      Email: mbranjan92@gmail.com
+    </address>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Simple Restaurant. All rights reserved.</p>
+  </footer>
+
+  
+</body>
+</html>
